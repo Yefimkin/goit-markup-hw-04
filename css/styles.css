@@ -322,6 +322,7 @@ body {
 }
 .footer-address {
   font-style: inherit;
+  width: 231;
 }
 
 .footer-logo {
@@ -366,7 +367,6 @@ body {
 }
 .fotter-right {
   margin-left: 70px;
-  padding-bottom: 100px;
 }
 /* ------------- portfolio ------------- */
 
