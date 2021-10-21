@@ -360,9 +360,14 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
-  display: block;
 }
-
+.footer-container {
+  display: flex;
+}
+.fotter-right {
+  margin-left: 70px;
+  padding-bottom: 100px;
+}
 /* ------------- portfolio ------------- */
 
 .projects {
