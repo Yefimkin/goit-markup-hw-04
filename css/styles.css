@@ -297,9 +297,7 @@ body {
   padding-top: 94px;
   padding-bottom: 94px;
 }
-/* .clients-container {
-  display: flex;
-} */
+
 .clients-list {
   display: flex;
 }
@@ -308,8 +306,6 @@ body {
 }
 .clients-after-items {
   display: block;
-  /* justify-self: start;
-  display: inline-flex; */
   width: 170px;
   height: 92px;
   border: 1px solid #afb1b8;
@@ -328,7 +324,7 @@ body {
 }
 .footer-address {
   font-style: inherit;
-  width: 231;
+  width: 100%;
 }
 
 .footer-logo {
@@ -371,9 +367,11 @@ body {
 .footer-container {
   display: flex;
 }
-.fotter-right {
+
+/* .fotter-right {
   margin-left: 70px;
-}
+}  */
+
 /* ------------- portfolio ------------- */
 
 .projects {
