@@ -187,7 +187,6 @@ body {
 /* --- section 2 --- */
 .section-two {
   padding-top: 94px;
-  /* padding-bottom: 94px; */
 }
 
 .section-two-list {
@@ -324,7 +323,6 @@ body {
 }
 .footer-address {
   font-style: inherit;
-  width: 100%;
 }
 
 .footer-logo {
@@ -368,9 +366,9 @@ body {
   display: flex;
 }
 
-/* .fotter-right {
+.fotter-right {
   margin-left: 70px;
-}  */
+}
 
 /* ------------- portfolio ------------- */
 
