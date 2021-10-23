@@ -217,6 +217,11 @@ body {
   margin-top: 10px;
 }
 
+.section-two-icon {
+  align-items: center;
+  justify-content: center;
+}
+
 /* --- section three --- */
 .section-three {
   padding-top: 94px;
@@ -312,13 +317,13 @@ body {
 .social-link:hover,
 .social-link:focus {
   background-color: var(--accent-color);
-  color: #ffffff;
+  fill: #ffffff;
   border-radius: 50%;
 }
 
-/* .social-icon {
-  fill: currentColor;
-} */
+.social-icon {
+  fill: #afb1b8;
+}
 
 .social-link {
   width: 100%;
