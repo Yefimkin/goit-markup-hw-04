@@ -63,7 +63,7 @@ body {
   cursor: pointer;
 }
 
-/* --- header --- */
+/* ---------------- header ---------------- */
 
 .header {
   padding-top: 24px;
@@ -142,7 +142,7 @@ body {
   fill: var(--accent-color);
 }
 
-/* --- hero --- */
+/* ---------------- hero ---------------- */
 
 .hero-top {
   background-color: #c4c4c4;
@@ -199,7 +199,7 @@ body {
   background-color: #188ce8;
 }
 
-/* --- section 2 --- */
+/* ---------------- section 2 ---------------- */
 .section-two {
   padding-top: 94px;
 }
@@ -245,7 +245,7 @@ body {
   align-items: center;
 }
 
-/* --- section three --- */
+/* ---------------- section 3 ---------------- */
 .section-three {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -269,7 +269,7 @@ body {
   margin-right: 30px;
 }
 
-/* --- section 4 --- */
+/* ---------------- section 4 ---------------- */
 
 .team {
   background-color: #f5f4fa;
@@ -360,7 +360,7 @@ body {
   justify-content: center;
 }
 
-/* --- section 5 --- */
+/* ---------------- section 5 ---------------- */
 
 .clients {
   padding-top: 94px;
@@ -402,7 +402,7 @@ body {
   fill: var(--accent-color);
 }
 
-/* --- footer --- */
+/* ------------------ footer ------------------ */
 
 .footer {
   background-color: #2f303a;
@@ -494,7 +494,7 @@ body {
   border-radius: 50%;
 }
 
-/* ------------- portfolio ------------- */
+/* ---------------- portfolio ---------------- */
 
 .projects {
   display: flex;
