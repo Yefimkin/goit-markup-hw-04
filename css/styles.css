@@ -87,7 +87,10 @@ body {
 .menu-item:not(:last-child) {
   margin-right: 50px;
 }
-
+.menu-item::before {
+  content: '';
+  background-image: url(./images/sprites.svg#icon-envelope);
+}
 .menu-link {
   font-style: normal;
   font-weight: 500;
@@ -314,8 +317,8 @@ body {
   margin-right: 0;
 }
 
-.social-link:hover,
-.social-link:focus {
+.social-link:hover .social-icon,
+.social-link:focus .social-icon {
   background-color: var(--accent-color);
   fill: #ffffff;
   border-radius: 50%;
