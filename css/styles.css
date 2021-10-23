@@ -233,7 +233,7 @@ body {
   margin-top: 10px;
 }
 
-.section-two-bg::before {
+/* .section-two-bg::before {
   content: '';
   width: 270px;
   height: 120px;
@@ -241,6 +241,19 @@ body {
   border-radius: 4px;
   display: block;
   margin-bottom: 30px;
+  background-image: url(../images/sprites.svg#icon-antenna);
+} */
+
+.section-icons {
+  width: 270px;
+  height: 120px;
+  background-color: #f5f4fa;
+  border-radius: 4px;
+  display: block;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* --- section three --- */
