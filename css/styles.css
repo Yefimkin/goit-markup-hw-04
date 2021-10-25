@@ -459,11 +459,11 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
-  margin-top: 12px;
   margin-bottom: 20px;
 }
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .fotter-right {
