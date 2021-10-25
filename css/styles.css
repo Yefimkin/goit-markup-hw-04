@@ -128,6 +128,11 @@ body {
   color: var(--second-text-color);
 }
 
+.menu-link:hover,
+.menu-link:focus {
+  color: var(--accent-color);
+}
+
 .menu-link.current {
   color: var(--accent-color);
 }
