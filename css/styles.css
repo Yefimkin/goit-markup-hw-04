@@ -137,14 +137,14 @@ body {
   color: var(--accent-color);
 }
 
-.hedear-mail:hover,
-.hedear-mail:focus,
+.header-mail:hover,
+.header-mail:focus,
 .header-tel:hover,
 .header-tel:focus {
   color: var(--accent-color);
 }
-.hedear-mail:hover .address-icon,
-.hedear-mail:focus .address-icon,
+.header-mail:hover .address-icon,
+.header-mail:focus .address-icon,
 .header-tel:hover .address-icon,
 .header-tel:focus .address-icon {
   fill: var(--accent-color);
