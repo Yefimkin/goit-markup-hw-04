@@ -69,6 +69,7 @@ body {
   padding-top: 24px;
   padding-bottom: 25px;
   border-bottom: 1px solid #ececec;
+  background-color: #ffffff;
 }
 
 .logo {
@@ -98,6 +99,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.menu-link:after {
+  content: '';
+  margin-bottom: 28px;
 }
 
 .address-icon {
