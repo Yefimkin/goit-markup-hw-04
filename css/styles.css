@@ -101,9 +101,12 @@ body {
   justify-content: center;
 }
 
-.menu-link:after {
+.menu-bar::after {
   content: '';
-  margin-bottom: 28px;
+  width: 48px;
+  height: 4px;
+  background-color: var(--accent-color);
+  border-radius: 2px;
 }
 
 .address-icon {
